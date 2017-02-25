@@ -1,0 +1,30 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+[[plugins]]
+repo = 'jistr/vim-nerdtree-tabs'
+[[plugins]]
+repo = 'Xuyuanp/nerdtree-git-plugin'
+[[plugins]]
+repo = 'airblade/vim-gitgutter'
+[[plugins]]
+repo = 'vim-airline/vim-airline'
+[[plugins]]
+repo = 'joshdick/onedark.vim'
+[[plugins]]
+repo = 'joshdick/airline-onedark.vim'
+[[plugins]]
+repo = 'bronson/vim-trailing-whitespace'
+[[plugins]]
+repo = 'Yggdroot/indentLine'
+[[plugins]]
+repo = 'ctrlpvim/ctrlp.vim'
+[[plugins]]
+repo = 'tyru/open-browser.vim'
+[[plugins]]
+repo = 'rhysd/accelerated-jk'
+[[plugins]]
+repo = 'Shougo/neosnippet.vim'
+[[plugins]]
+repo = 'Townk/vim-autoclose'
