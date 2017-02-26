@@ -13,8 +13,6 @@ repo = 'vim-airline/vim-airline'
 [[plugins]]
 repo = 'joshdick/onedark.vim'
 [[plugins]]
-repo = 'joshdick/airline-onedark.vim'
-[[plugins]]
 repo = 'bronson/vim-trailing-whitespace'
 [[plugins]]
 repo = 'Yggdroot/indentLine'
@@ -28,3 +26,5 @@ repo = 'rhysd/accelerated-jk'
 repo = 'Shougo/neosnippet.vim'
 [[plugins]]
 repo = 'Townk/vim-autoclose'
+[[plugins]]
+repo = 'tomasr/molokai'

@@ -1,5 +1,3 @@
-set number
-
 """
 " Dein TOML
 " プラグインが実際にインストールされるディレクトリ
@@ -71,7 +69,7 @@ set autoread
 set backspace=indent,eol,start
 
 " OSとクリップボードを共有する
-set clipboard=unnamed,autoselect
+set clipboard=unnamed,unnamedplus
 
 " 強調表示する列を設定する
 set colorcolumn=80
@@ -183,3 +181,8 @@ set wrap
 
 " 検索時に最後まで移動したら最初に戻る
 set wrapscan
+
+" molokai設定
+syntax on
+colorscheme molokai
+set t_Co=256
